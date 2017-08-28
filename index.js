@@ -1,3 +1,5 @@
+var number = 10;
+
 function add() {
-  return(1 + 80);
+  number += 5;
 }
