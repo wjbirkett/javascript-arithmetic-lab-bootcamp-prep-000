@@ -1,6 +1,6 @@
 var a = 81
 var b = 2
 
-function add() {
+function add(a, b) {
   return(a + b);
 };
