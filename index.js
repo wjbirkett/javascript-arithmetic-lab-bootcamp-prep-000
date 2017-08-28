@@ -1,6 +1,10 @@
-var number = 10;
+var a, b
 
-function add() {
-  number += 5;
-  console.log(number);
-}
+beforeEach(function() {
+  a = Math.floor(Math.random() * 1000)
+  b = Math.floor(Math.random() * 1000)
+})
+
+function add(a, b) {
+  
+};
